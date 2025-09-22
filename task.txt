@@ -1,0 +1,1 @@
+I have successfully setup my Git and Github integrated with slack
